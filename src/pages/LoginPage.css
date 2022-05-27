@@ -1,0 +1,59 @@
+.login{
+    text-align:center;
+    font-size: 36px;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fullPage
+{border:2px solid white;
+    height: 570px;
+    background-size: 100%;
+    background-image: url(../images/smoke.jpeg);
+    background-repeat: no-repeat;
+}
+
+
+.email
+{
+    width:60%;
+    padding-bottom: 40px;
+    
+}
+.emailinput
+{
+    width:40%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+.outerBox{
+   margin-left: 500px;
+   margin-bottom: 10px;
+   
+}
+.input
+{
+    width:40%;
+    border-radius: 5px;
+    padding:5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.button
+{
+    margin-top: 20px;;
+    margin-left: 48%;
+    padding:10px 20px;
+    border-radius: 5px;
+    background-color:  #000000;
+    color: white;
+}
+.main{
+    margin-top: 150px;
+}
+.space{
+    margin-top: 10px;
+}
+.label
+{
+  font-family: cursive;
+}
